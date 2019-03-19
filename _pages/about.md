@@ -1,23 +1,30 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: 陈 奇
+description: 中国地质大学(武汉)地理与信息工程学院，特任副教授，硕士生导师
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true
-social: true
+
+news: false
+social: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**教育背景**  
+2005 - 2009年 武汉大学 遥感科学与技术 学士  
+2009 - 2011年 武汉大学 摄影测量与遥感 硕士  
+2011 - 2015年 武汉大学 摄影测量与遥感 博士
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**工作经历**  
+2018.11 至今 中国地质大学(武汉) 特任副教授  
+2016.9 - 2018.8 东京大学 Project Researcher  
+2015.7 - 2018.10 中国地质大学(武汉) 博士后  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**研究方向**  
+遥感影像目标识别；计算机视觉；深度学习
+
+**联系方式**  
+chenqi@cug.edu.cn
