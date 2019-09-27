@@ -26,5 +26,11 @@ social: false
 **研究方向**  
 遥感影像目标识别；计算机视觉；深度学习
 
+**所属团队**
+[资源环境遥感与智能地学分析研究中心](http://grzy.cug.edu.cn/liuxiuguo/zh_CN/zdylm/47283/list/index.htm)
+团队负责人：[刘修国](http://grzy.cug.edu.cn/liuxiuguo/zh_CN/index.htm) 教授
+
 **联系方式**  
 chenqi@cug.edu.cn
+
+**欢迎遥感、GIS相关专业同学联系报考2020年硕士研究生，目前尚有名额:)**
