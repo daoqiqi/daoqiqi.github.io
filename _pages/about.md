@@ -12,6 +12,7 @@ profile:
 news: false
 social: false
 ---
+![avatar](/assets/img/1.jpg)
 **欢迎测绘、遥感和GIS相关专业同学联系报考2020年硕士研究生:)**
 
 **教育背景**  
