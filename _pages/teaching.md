@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: 讲授课程
+title: 主讲课程
 ---
 
 **本科生课程**:《计算科学基础》  
