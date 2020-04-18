@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: 陈 奇
-description: 武汉市东湖新技术开发区锦程街68号<br/>中国地质大学(武汉)未来城校区科教八楼656<br/>chenqi@cug.edu.cn  
+description: "武汉市东湖新技术开发区锦程街68号<br/>中国地质大学(武汉)未来城校区科教八楼656<br/>Email: chenqi@cug.edu.cn"  
 
 profile:
   align: right
