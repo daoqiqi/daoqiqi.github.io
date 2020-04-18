@@ -35,4 +35,4 @@ permalink: /research/
 #### 5. 用于ZY-1-02C卫星数据融合的影像自动配准方法
 
 ![filter](../assets/img/achievements/registration.jpg){:width="62%"}  
-针对ZY-1-02C卫星全色影像与多光谱影像定位精度偏差较大的问题，提出一种由粗到精的同名点匹配方法，并应用基于同名三角网的小面元纠正方法得到高精度配准结果。该配准方法已用于ZY-1-02C卫星融合影像产品的业务化生产系统。（[PDF](../assets/img/achievements/registration.pdf)）
+针对ZY-1-02C卫星全色影像与多光谱影像定位精度偏差较大的问题，提出一种由粗到精的同名点匹配方法，并应用基于同名三角网的小面元纠正方法得到高精度配准结果。该配准方法已应用于ZY-1-02C卫星融合影像产品的业务化生产系统。（[PDF](../assets/img/achievements/registration.pdf)）
