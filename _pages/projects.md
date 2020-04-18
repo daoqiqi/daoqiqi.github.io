@@ -12,6 +12,6 @@ permalink: /research/
 * 主持并完成中国博士后科学基金面上项目(一等资助)：联合机载LiDAR与航空影像的建筑物精细轮廓提取(2016M590730)，2016.1-2017.12
 
 ### 研究成果
-* 构建大规模航空影像建筑物检测数据集与基准方法  
+#### (* 构建大规模航空影像建筑物检测数据集与基准方法  )
 ![airs](../assets/img/achievements/airs.jpg){:width="75%"}  
 构建并发布了一组0.075米分辨率、覆盖范围457平方公里、包含建筑物目标22万余个的航空影像数据集(Aerial Imagery for Roof Segmentation, AIRS)用于建筑物检测试验。在此基础上，实现了三种代表当时先进水平的CNN模型方案作为基准方法，对不同方法的检测结果进行了详细比较分析。AIRS数据集可由[此处](https://www.airs-dataset.com/)获取。（[PDF](../assets/img/achievements/airs.pdf)）
