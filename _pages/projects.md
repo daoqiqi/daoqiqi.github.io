@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 科研项目
-permalink: /projects/
+title: 研究背景
+permalink: /research/
 
 ---
 
