@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: 陈 奇
-description: 武汉市东湖新技术开发区锦程街68号<br/>中国地质大学(武汉)未来城校区科教八楼656<br/>Email: chenqi@cug.edu.cn  
+description: 武汉市东湖新技术开发区锦程街68号<br/>中国地质大学(武汉)未来城校区科教八楼656<br/>chenqi@cug.edu.cn  
 
 profile:
   align: right
@@ -30,6 +30,3 @@ social: false
 **所属团队**  
 [资源环境遥感与智能地学分析研究中心](http://grzy.cug.edu.cn/liuxiuguo/zh_CN/zdylm/47283/list/index.htm)  
 团队负责人：[刘修国](http://grzy.cug.edu.cn/liuxiuguo/zh_CN/index.htm) 教授
-
-**联系方式**  
-chenqi@cug.edu.cn
