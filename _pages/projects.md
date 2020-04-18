@@ -5,8 +5,8 @@ permalink: /research/
 
 ---
 ### 研究成果
-![airs](../assets/img/achievements/airs.tif){:width="75%"}  
-构建并发布了一组0.075米分辨率、覆盖范围457平方公里、包含建筑物目标22万余个的航空影像数据集用于建筑物检测试验。在此基础上，实现了三种代表目前先进水平的CNN模型方案同时对其结果进行了详细比较。（[PDF](../assets/img/achievements/airs.pdf)）
+![airs](../assets/img/achievements/airs.jpg){:width="75%"}  
+构建并发布了一组0.075米分辨率、覆盖范围457平方公里、包含建筑物目标22万余个的航空影像数据集(Aerial Imagery for Roof Segmentation, AIRS)用于建筑物检测试验。在此基础上，实现了三种代表目前先进水平的CNN模型方案同时对其结果进行了详细比较。AIRS数据集可由[此处](https://www.airs-dataset.com/)获取。（[PDF](../assets/img/achievements/airs.pdf)）
 
 ### 主要科研项目
 主持中央高校基本科研业务费专项基金项目：不同期高分遥感影像与建筑物轮廓数据的自动配准方法研究(CUG190603)，2019.1-2021.12；
