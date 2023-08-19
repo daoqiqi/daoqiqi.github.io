@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 研究背景
+title: 学术研究
 permalink: /research/
 description: # A growing collection of your cool projects.
 nav: true
