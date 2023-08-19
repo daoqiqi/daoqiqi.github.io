@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-陈奇，工学博士，中国地质大学（武汉）地理与信息工程学院副教授，硕士生导师，东京大学访问研究员(2016-2018年)，武汉大学数字摄影测量与计算机视觉研究中心成员。主要从事航空/航天摄影测量和计算机视觉领域的相关研究，[研究成果](./projects.md###主要研究成果)涉及遥感影像配准、影像镶嵌、点云滤波、建筑物分割与矢量测图等技术创新；近年来专注于__智能化摄影测量与遥感__以及__可再生能源遥感__方面的研究，主要研究兴趣包括多视图遥感特征学习、光伏开发资源地理潜力评估和光伏电站智能化遥感运维等。主持或完成的[科研项目](./projects.md###主要科研项目)包括国家自然科学基金青年基金项目1项、中国博士后科学基金面上项目1项、中央高校基本科研业务费专项基金项目1项以及其他横向项目多项。公开[发表论文](./publications.md)40余篇，授权国家发明专利3项。[主讲课程](./teaching)包括《计算科学基础》《计算机视觉与机器学习》《专业英语》等。
+陈奇，工学博士，中国地质大学（武汉）地理与信息工程学院副教授，硕士生导师，东京大学访问研究员(2016-2018年)，武汉大学数字摄影测量与计算机视觉研究中心成员。主要从事航空/航天摄影测量和计算机视觉领域的相关研究，[研究成果](./projects.md###主要研究成果)涉及遥感影像配准、影像镶嵌、点云滤波、建筑物分割与矢量测图等技术创新；近年来专注于<span style="font-weight:bold">智能化摄影测量与遥感</span>以及<span style="font-weight:bold">可再生能源遥感</span>方面的研究，主要研究兴趣包括多视图遥感特征学习、光伏开发资源地理潜力评估和光伏电站智能化遥感运维等。主持或完成的[科研项目](./projects.md###主要科研项目)包括国家自然科学基金青年基金项目1项、中国博士后科学基金面上项目1项、中央高校基本科研业务费专项基金项目1项以及其他横向项目多项。公开[发表论文](./publications.md)40余篇，授权国家发明专利3项。[主讲课程](./teaching)包括《计算科学基础》《计算机视觉与机器学习》《专业英语》等。
 #### 教育背景
 2005 - 2009年 武汉大学 遥感科学与技术 学士  
 2009 - 2011年 武汉大学 摄影测量与遥感 硕士  
@@ -36,4 +36,4 @@ social: false  # includes social icons at the bottom of the page
 2016.9 - 2018.8 东京大学 Project Researcher  
 2015.7 - 2018.10 中国地质大学(武汉) 博士后  
 
-<span style="color:red; font-weight:bold;">欢迎遥感、测绘、GIS和计算机等相关专业同学联系报考2024年硕士研究生！点击左上角信封获取Email地址 :)</span>
+<span style="color:red; font-weight:bold;">欢迎遥感、测绘、GIS和计算机等相关专业同学联系报考2024年硕士研究生 :)</span>
