@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "武汉市东湖新技术开发区锦程街68号<br/>中国地质大学(武汉)未来城校区科教八楼656<br/>Email: chenqi@cug.edu.cn" 
+subtitle: "武汉市东湖新技术开发区锦程街68号<br/>中国地质大学(武汉)未来城校区科教八楼656" 
 
 profile:
   align: right
@@ -36,4 +36,4 @@ social: false  # includes social icons at the bottom of the page
 2016.9 - 2018.8 东京大学 Project Researcher  
 2015.7 - 2018.10 中国地质大学(武汉) 博士后  
 
-<font color="red"><strong>欢迎遥感、测绘、GIS和计算机等相关专业同学联系报考2024年硕士研究生 :)</strong></font>
+<span style="color:red; font-weight:bold;">欢迎遥感、测绘、GIS和计算机等相关专业同学联系报考2024年硕士研究生 :)</span>
