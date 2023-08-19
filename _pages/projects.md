@@ -69,7 +69,7 @@ horizontal: false
 ### 主要研究成果
 
 #### 8. 遥感技术在光伏领域应用综述
-![extractFoot](../assets/img/achievements/PVxRS_Review.png){:width="62%"}  
+![PVxRS](../assets/img/achievements/PVxRS_Review.png){:width="62%"}  
 对遥感技术在光伏场景中的应用案例和潜力方向进行了全面评述。（[PDF](../assets/img/achievements/PVxRS_Review.pdf)）
 
 #### 7. 正射影像建筑物基底矢量提取与自适应投影差补偿

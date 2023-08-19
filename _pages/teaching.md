@@ -14,7 +14,7 @@ nav_order: 3
 ---
 ### 《计算科学基础》
 
-![python](../assets/img/teaching/python.jpg){:width="62%"}  
+![python](../assets/img/teaching/python.gif){:width="62%"}  
 面向大一新生，以简单易学的Python高级编程语言为载体讲授计算科学基础知识。
 
 ### 《计算机视觉与机器学习》
