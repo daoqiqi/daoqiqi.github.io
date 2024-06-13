@@ -70,27 +70,22 @@ horizontal: false
 
 ### 主要研究成果
 
-#### 9. 航空影像建筑物制图的端对端多视融合方法
+#### 8. 航空影像建筑物制图的端对端多视融合方法
 ![mvmapper](../assets/img/achievements/MVMapper.jpg){:width="62%"}  
 提出了一种航空影像建筑物分割端对端多视融合框架(MVMapper)，将主流建筑物分割学习框架从单一物方空间拓展至“多视像方与物方联动的双重空间”，揭示了多视融合方案在遥感影像建筑物制图领域的应用潜力。（[PDF](../assets/img/achievements/MVMapper.pdf)）
 
-#### 8. 遥感技术在光伏领域应用综述
+#### 7. 遥感技术在光伏领域应用综述
 ![PVxRS](../assets/img/achievements/PVxRS_Review.png){:width="62%"}  
 对遥感技术在光伏场景中的应用案例和潜力方向进行了全面评述。（[PDF](../assets/img/achievements/PVxRS_Review.pdf)）
 
-#### 7. 正射影像建筑物基底矢量提取与自适应投影差补偿
+#### 6. 正射影像建筑物基底矢量提取与自适应投影差补偿
 ![extractFoot](../assets/img/achievements/ExtracFootprints.jpg){:width="62%"}  
 提出了一种结合正射影像屋顶/墙面的语义分割和自适应投影差补偿的建筑物基底矢量提取方法，实现了更精确地在DOM中提取建筑物尤其是高层建筑的位置信息。（[PDF](../assets/img/achievements/ExtracFootprints.pdf)）
 
-#### 6. 一种用于建筑物矢量生成的形状建模学习框架
+#### 5. 一种用于建筑物矢量生成的形状建模学习框架
 
 ![polygoncnn](../assets/img/achievements/polygonCNN.jpg){:width="62%"}  
 提出了一种用于遥感影像建筑物矢量生成的形状建模深度学习框架(PolygonCNN)，该框架将建筑物矢量生成问题划分为建筑物分割和轮廓形状优化两个步骤：首先采用全卷积形式的图像分割模型从遥感影像生成建筑物目标概率图，并经由二值化、聚类和边缘轮廓跟踪处理生成建筑物初始矢量轮廓；然后将初始轮廓节点坐标序列与对应位置的图像特征进行级联并输入至一个改进的PointNet模型中进行形状先验知识的特征编码，输出矢量轮廓各节点的坐标校正值，最终生成优化后的建筑物矢量结果。（[PDF](../assets/img/achievements/polygonCNN.pdf)）
-
-#### 5. 构建大规模航空影像建筑物检测数据集与基准方法
-
-![airs](../assets/img/achievements/airs.jpg){:width="62%"}  
-构建并发布了一组0.075米分辨率、覆盖范围457平方公里、包含建筑物目标22万余个的航空影像数据集(Aerial Imagery for Roof Segmentation, AIRS)用于建筑物检测试验。在此基础上，实现了三种代表当时先进水平的CNN模型方案作为基准方法，并对不同方法的检测结果进行了详细比较分析。AIRS数据集可由[此处](https://www.airs-dataset.com/)获取。（[PDF](../assets/img/achievements/airs.pdf)）
 
 #### 4. 基于多重约束全卷积网络的航空影像建筑物检测
 
