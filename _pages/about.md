@@ -36,4 +36,4 @@ social: false  # includes social icons at the bottom of the page
 2016.9 - 2018.8 东京大学 Project Researcher  
 2015.7 - 2018.10 中国地质大学(武汉) 博士后  
 
-<span style="color:red; font-weight:bold;">欢迎遥感、测绘、GIS和计算机等相关专业同学联系报读2026年硕士研究生 :)</span>
+<span style="color:red; font-weight:bold;">欢迎遥感、测绘、GIS和计算机等相关专业同学联系报读2025年硕士研究生 :)</span>
